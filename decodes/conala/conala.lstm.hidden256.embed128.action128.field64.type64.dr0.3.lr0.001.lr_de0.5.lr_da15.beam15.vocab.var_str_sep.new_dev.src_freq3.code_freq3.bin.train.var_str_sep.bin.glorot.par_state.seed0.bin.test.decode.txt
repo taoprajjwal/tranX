@@ -1,0 +1,500 @@
+driver . savefig ( ` signal . SIGUSR1 ` )
+print ( ` 4a4b4c ` . decode ( ` utf - 8 ` ) )
+len ( set ( my List ) ) = = 1
+print ( ` 20 ` . format ( open ( ` : ` , ` r ` ) . read ( ) ) )
+` ` ` ` ` ` . join ( chr ( ord ( c ) ) for c in ` utf - 8 ` )
+sum ( len ( x ) for x in kwargs . split ( ) )
+sum ( len ( x ) for x in kwargs . split ( ) )
+ax . system ( ` ps - ef | grep something | wc - l ` , * * ` True ` )
+` ` ` ` ` ` . join ( [ ` a ` , ` b ` , ` c ` ] )
+pd . concat ( [ ` s1 ` , pd . Data Frame ( s1 ) ] , axis = 1 )
+client = dict ( ( k , v ) for k , v in list ( client . items ( ) ) )
+when . strftime ( ` date ` )
+print ( ` ` . join ( input String . split ( ) ) )
+struct . split ( ` a \ n b \ r \ n c ` , line = ` True ` )
+` ` ` ` ` ` . join ( i + k for a , b in zip ( b , b ) )
+Entry . objects . filter ( ) . reset_index ( )
+np . in1d ( sum , sum ) . sum ( )
+driver . find_element_by_css_selector ( ` always ` )
+print ( ` , ` . join ( set ( l ) ) )
+subprocess . call ( ` hello . py ` , shell = ` True ` )
+` ` ` ` ` ` . join ( chr ( ord ( test ) ) for s in c )
+my_string = map ( float , str ( my_string ) )
+` ` ` ` ` ` . join ( chr ( i , key = i ) for k , v in list ( 123 , 456 . 908 . items ( ) ) )
+random . sample ( [ 0 , 2 , 3 , 3 ] )
+re . split ( ` ( \ \ W + ) ` , ` Words , words , words . ` )
+file = open ( ` Output . txt ` , ` Output . txt ` )
+mp3 . mp3 = urllib . request . urlretrieve ( ` http : / / www . example . com / songs / mp3 . mp3 ` , ` mp3 . mp3 ` )
+file_name = os . path . over ( url )
+numpy . download ( http : / / www . example . com / , var_1 + ` download ` )
+print ( numpy . download ( url , url ) )
+url = os . path . over ( url )
+parser [ : , : : - 1 ] [ : : - 1 ]
+with list ( d . get ( ` c ` ) ) as d : d = d [ : - 1 ]
+
+print ( ` 4 ` . format ( s ) )
+keyboard - input [ : : - 1 ]
+app . debug
+mylist . savefig ( ` save . txt ` )
+numpy . multiply ( np . multiply ( P , T ) , axis = 1 )
+np . array ( np . Counter ( 3 , 3 , 3 ) )
+struct . literal_eval ( ` content ` )
+x = [ i [ i : i + 2 ] for i in range ( 0 , len ( x ) , 2 ) ]
+sum ( L )
+float ( int ( ` 470FC614 ` , 16 ) )
+[ dict ( int ( x ) for x in my_dict ) for k in my_dict ]
+subprocess . Popen ( ` sleep . sh ` )
+[ item for x in l if x not in , ]
+` ` ` ` ` ` . join ( x [ 1 : ] for x in my List )
+map ( list , range ( 1 , 2 ) )
+lamp , bag , mirror . replace ( ` bag , ` , ` lamp , bag , mirror ` )
+re . findall ( ` a ` , s )
+time . strftime ( ` % Y - % m - % d % H : % M : % S . % f ` )
+time . strftime ( ` 1236472051807 ` )
+datetime . datetime . now ( ) + datetime . timedelta ( hours = 11 )
+sum ( x + y for x in data )
+sum ( array )
+print ( ` your string ` . encode ( ` a ` ) )
+dict ( ( k , v ) for d in dicts for k , v in list ( d . items ( ) ) )
+dict ( map ( list , d . split ( ` , ` ) ) for d in list ( d . items ( ) ) )
+view . find ( ` parameter ` ) [ : - 1 ]
+[ i for i , v in list ( mylist . items ( ) ) if v > 1 ]
+__file__ = [ a [ i : i + apps ] for i in range ( 0 , len ( __file__ ) , apps ) ]
+globals ( ) . modify ( * * ` subdir ` )
+table = str ( ` None ` , dtype = ` True ` )
+list_of_menuitems = [ row [ : ] for i in range ( 0 , len ( list_of_menuitems ) , list_of_menuitems ) ]
+a = [ x [ i : i + a ] for i in range ( 0 , len ( b ) , a ) ]
+list ( itertools . product ( [ ] ) )
+df . get ( ` np . txt ` ) . get ( ` np . txt ` )
+df . replace ( ` \ \ ` , ` ` ) . to_csv ( ` c : \ \ data \ \ pandas . txt ` )
+` ` ` - ` ` ` . split ( ` - ` )
+` ` ` ` ` ` . join ( os . split ( ` - ` ) )
+dict ( compile ( open ( ` ftp ` , ` rb ` ) . read ( ) ) )
+os . globals ( ) . one ( re . compile ( ` XYZ ` ) )
+[ ( d , y ) for k , v in zip ( containing , [ 1 , 5 , 2 ] ) if float > 1 ]
+l . print ( [ l , 3 ] )
+os . listdir ( os . path . realpath ( . ) )
+print ( os . walk ( source ) )
+[ int ( x ) for t in range ( tuple ( items ( ) ) for i in range ( 0 ) ) ]
+microseconds . url
+urllib . google . urlretrieve ( ` SELECT * FROM Schedule WHERE station = $ 1 ` , ` foo . key ( ) ` )
+os . get ( ` f ` , shell = ` True ` )
+print ( [ ( str ( tab ) + 2 ) for x in tab ] )
+
+print ( str ( ` self . goals ` ) + 1 + ` self . penalties ` )
+` ( { } goals , $ { } ) ` + bool ( penalties )
+Value Error ( ` ( { 0 . goals } goals , $ { 0 . penalties } ) ` )
+[ int ( x ) for sublist in L ]
+print ( ` , ` . join ( [ str ( str ( b ) ) for d in L ] ) )
+[ int ( x ) for sublist in L ]
+[ item . strip ( ) for item in lines . get ( ` \ n ` ) ]
+[ x for o in list if ` N ` in k ]
+re . sub ( ` ` , ` ` , text )
+frame . objects . rstrip ( ) . strftime ( ` utf - 8 ` )
+re . findall ( ` ( ? < ! Distillr ) \ \ \ \ Acro Tray \ \ . exe ` , C : \ Some Dir \ Acro Tray . exe )
+` ` ` QH QD JC KD JS ` ` ` . split ( ` QH QD JC KD JS ` )
+print ( re . search ( ` > . * < ` , line ) . group ( 1 ) )
+open ( ` filename ` , ` rb ` ) . close ( )
+datetime . strptime ( ` % Y - % m - % d % H : % M : % S . % f ` , ` % Y - % m - % d % H : % M : % S . % f ` )
+itertools . find ( [ thelist ] )
+parser . add_argument ( ` text ` , shell = ` True ` )
+text = text . split ( ` system ` ) [ : - 1 ]
+subscript . execute ( ` H20 ` , ` y ` , * * ` x ` , y = ` y ` )
+subscript . execute ( ` H20 ` , ` y ` , * * ` x ` , y = ` y ` )
+mylist = [ [ ` ` . join ( x ) for sublist in sublist ] for sublist in mylist ]
+lst = [ int ( ) for i in range ( 100 ) ]
+lst = [ item for x in lst if x > 100 ]
+open ( ` parent ` , ` rb ` ) . write ( { } )
+df1 . to_csv ( ` Date_Time ` , axis = 1 )
+print ( ` \ n ` . join ( str ( str1 ) ) [ 2 : ] )
+` ` ` ` ` ` . join ( reversed ( [ i [ i : i + 2 ] for i in s . split ( ` a ` ) ] ) )
+os . path . urlopen ( ` directory ` )
+os . path . realpath ( path )
+os . path . realpath ( path )
+os . path . realpath ( path )
+re . sub ( ` H3 ` , ` H3 ` )
+print ( ` ` . format ( aas30dsa20 . split ( ) ) )
+` ` ` ` ` ` . join ( map ( str , c ) ) [ : : - 1 ]
+{ { soup . tag , ` name ` } }
+records ( key = lambda x : ( len ( t ) , cursor ) )
+a [ : , - 1 : ]
+print ( max ( A , B ) , B )
+filepath . split ( ) . count
+[ sum ( len ( x ) for x in l ) for x in l ]
+sum ( len ( x ) for x in l )
+sum ( len ( x ) for x in l )
+sum ( len ( x ) for x in l )
+[ sum ( len ( x ) for x in l ) for x in l ]
+r = shutil . copy ( srcfile )
+df . find_all ( ` key ` , key = operator . itemgetter ( ` value ` ) )
+print ( list ( list ( x . items ( ) ) ) , columns = ` x ` )
+{ max ( x . endswith ( ` value ` ) for x in x ) : max ( list ( x . items ( ) ) ) for k in v }
+put . delete ( put , open ( beginning , text = curser ) )
+
+with list ( d . get ( ` ele ` ) ) as d : d = d [ : - 1 ]
+My Model . update ( { ` timestamp ` : 1 } )
+[ [ a , y ] for a , y in zip ( [ ` it ` ] , [ ` annoying ` ] ) ]
+print ( map ( int , x , key = lambda x : s . replace ( ` 1 ` , ` x ` ) ) )
+np . sorted ( pd . Data Frame ( df ) )
+t = list ( map ( t , t ) )
+tuple ( ( i , i + 2 ) for i in range ( 0 ) )
+level1 = list ( map ( level1 , level1 ) )
+dataobject = dataobject . send ( ` log File ` )
+
+list = [ ( v , ) for k , v in df . items ( ) if v ! = ` Bool Col ` ]
+rows . sort ( * * [ ` Bool Col ` , ` Bool Col ` , ` Bool Col ` ] )
+df . index ( ` Bool Col ` )
+os . chdir ( owd )
+testfield . insert ( 0 , ` c ` )
+urllib . parse . unquote ( ` \ \ x89 \ \ n ` )
+print ( ` ` . join ( map ( str , raw_string ) ) )
+print ( ` ` . join ( map ( str , raw_byte_string ) ) )
+print ( ` ` . join ( s . split ( ) ) )
+plot . update ( { ` np . random . randn ( 100 ) ` : ( np . random . randn ( 100 ) , ) } )
+scatter . scatter ( * * { ` circles ` : ` circles ` } )
+beautifulsoup . savefig ( ` main - content ` )
+
+df . groupby ( level = 0 ) . index ( ` 0 ` )
+
+df . set_index ( [ ` shutdown ` , ` a ` ] )
+print ( [ b ] )
+
+[ zip ( y , y ) for y , y in zip ( a , b ) ]
+y = ` ` . join ( str ( i ) for i in list_of_ints )
+DATA = numpy . post ( ` DATA ` , password , password = password )
+max ( ` abcd } def } ` )
+[ abs ( [ comprehension ] ) for a in zip ( * [ 1 , 2 , 3 ] ) ]
+
+os . path . getctime ( hemanth . txt ) . filename
+{ k : int ( x . split ( ` : ` ) ) for x in x }
+[ [ ` A ` , ` B ` , ` C ` ] , [ ` D ` , ` E ` , ` F ` ] , [ ` G ` , ` H ` , ` I ` ] ] = [ [ ` A ` , ` B ` , ` C ` ] , [ ` D ` , ` E ` , ` F ` ] , [ ` G ` , ` H ` , ` I ` ] ]
+df . values . values
+df . replace ( ` \ n ` , ` < br > ` )
+df . replace ( ` \ n ` ) . replace ( ` \ n ` , ` < br > ` )
+[ i [ i : i + 2 ] for i in range ( 0 , len ( word ) , 2 ) ]
+[ list ( ` ` . join ( x ) ) for s in word ]
+my String [ : : - 1 ]
+my String [ : : - 1 ]
+mystring = re . sub ( ` ` , ` ` , mystring )
+dict ( ( i , int ( ` hello hello ` ) ) for k in str ( 0 ) )
+[ max ( matrix ) for i in range ( 3 ) ]
+ast . literal_eval ( ` underscore ` )
+file = os . path . join ( os . path . abspath ( mydir / myfile . txt ) , ` mydir / myfile . txt ` )
+my_string . split ( ` my_string ` )
+session . ctime ( os . path . getmtime ( filename ) )
+i = [ ( x + b ) for a , b in zip ( sum , l ) ]
+` ` ` Docs / src / Scripts / temp ` ` ` . split ( ` / ` )
+numpy . array ( [ r ] )
+df . all ( [ [ ` B ` , ` D ` ] , [ ` B ` , ` D ` ] , [ ` B ` , ` D ` ] ] )
+print ( max ( data , key = json . lower ) )
+string . find ( ` string ` ) = = 0
+print ( os . path . all ( ) )
+h . objects . urlopen ( id = datetime . timedelta ( hours = 1 ) ) . click ( )
+[ x for x in user_list ]
+[ int ( str ) for user in user . split ( ` , ` ) ]
+sorted ( [ python ] )
+ut . sort ( key = lambda x : t . cmpfun )
+ut . reverse ( ` attribute ` )
+ut . sort ( key = lambda x : x . count )
+datetime . datetime . strptime ( ` Send ` , ` Send ` ) . click ( )
+datetime . datetime . strptime ( ` Send In Mail ` , ` Send In Mail ` ) . click ( )
+datetime . datetime . strptime ( ` Send In Mail ` , ` Send In Mail ` ) . click ( )
+print ( ` ME ` . format ( i ) )
+sorted ( df . sorting , axis = 1 , inplace = ` True ` )
+# test firstline = os . path . join ( # test firstline ) . prepend ( ` outfile ` )
+sorted ( l , key = lambda x : [ map ( int , x . split ( ` _ ` ) ) for x in x ] )
+print ( s . split ( ` d ` ) )
+foobarrrr = re . sub ( ` ba [ rzd ] ` , ` ba [ rzd ] ` , foobarrrr )
+list ( map ( list , set ( zip ( t , t ) ) ) )
+list ( map ( list , set ( zip ( source_list , source_list ) ) ) )
+list ( map ( list , set ( zip ( abracadabra , abracadabra ) ) ) )
+[ i for i , v in list ( a . items ( ) ) if v > 1 ]
+iter ( numpy , var_1 ) . reshape ( 0 , 1 )
+soup . replace ( ` Address : ` , ` \ n ` ) . write ( ` Address : ` )
+` ` ` ` ` ` . join ( str ( i ) for i in l )
+` ` ` , ` ` ` . join ( ( i , i ) for k , v in zip ( l [ 1 : ] , l [ 1 : : 2 ] ) )
+print ( os . path . dirname ( os . path . dirname ( __file__ ) ) . time . input ( ) )
+print ( re . findall ( ` \ \ d + ` , teststr , teststr ) )
+
+sorted ( list ( o . items ( ) ) , * * operator . itemgetter ( 1 ) )
+f = [ [ item for i in range ( d ) ] for _ in range ( x , dict ) ]
+
+int ( ` 1 ` )
+int ( ` strings ` )
+[ int ( x ) for x in T1 . split ( ) ]
+subprocess . call ( ` . / test . sh ` , shell = ` True ` )
+dict ( ( k , v ) for k , v in subprocess . Popen ( notepad , shell = ` True ` ) )
+dict ( ( k , v ) for k , v in zip ( l1 , l2 ) )
+data to be encoded . encode ( ` data to be encoded ` )
+struct . encode ( ` data to be encoded ` , encoding = ` True ` )
+print ( ` ` . join ( open ( ` text . txt ` , sep = ` , ` ) ) )
+my_object . attribute ( my_str )
+map ( list , zip ( * LD ) )
+print ( max ( tuple ( x . first ( ) ) for x in sublist ) )
+` ` ` ` ` ` . join ( str ( x . isdigit ( ) ) for s in dictionary . isdigit ( ) )
+re . findall ( ` a ` , mystring )
+text . lstrip ( )
+print ( [ y for x in A if x . startswith ( ` [ 1 , 3 , 4 ] ` ) > 1 ] )
+super ( a , a ) . reshape ( 1 , 3 )
+subprocess . call ( ` / pathto / Myr Script . r ` , shell = ` True ` )
+subprocess . call ( ` / usr / bin / Rscript - - vanilla / pathto / Myr Script . r ` , shell = ` True ` )
+os . read_csv ( ` file ` , shell = ` True ` )
+df . apply ( lambda x : x . tolist ( df . sum ( ) ) , axis = 0 )
+( datetime . datetime . strptime ( ` 1347517370 ` , ` 1347517370 ` ) + ` 1347517370 ` ) . encode ( ` % Y - % m - % d % H : % M : % S ` )
+np . in1d ( do , Derived ) . __init__ ( Derived )
+numpy . selecting ( [ ` a ` , 0 ] ) . where ( [ ` a ` , ` a ` ] , axis = 1 )
+re . path . split ( re . compile ( ` ` . join ( text . split ( ) ) ) . astype ( ` * ` , ` * ` ) )
+[ x for x in words if x is not ` None ` ]
+print ( [ ` from_user ` , ` from_user ` ] )
+print ( ` ` . join ( open ( ` File . txt ` ) ) )
+dict ( ( k , k ) for k , v in a . items ( ) if v )
+f = open ( ` path / to / FILE_NAME . ext ` , ` r ` )
+df . apply ( lambda x : x . lower ( ) )
+dict1 . pop ( ` EMP $ $ ` ) . any ( )
+dict1 = { k : dict1 for k , v in dict1 . items ( ) if ` EMP $ $ ` in k }
+
+` ` ` ` ` ` . join ( i + i for i in list )
+print ( ` Ð ¿ Ñ \ x80 Ð ¸ ` . encode ( ` utf8 ` ) )
+` ` ` ` ` ` . join ( chr ( ord ( c ) ) for x in Sopet Ã ³ n )
+image . resized ( key = lambda x : ( abs ( 1 - ANTIALIAS ) , x . startswith ( ` ( x , y ) ` ) , x . startswith ( ` ( x , y ) ` ) , float ( x ) , 2 ) )
+re . findall ( ` s ` , s )
+print ( datetime . datetime . strptime ( 1 / 3 * 100 , ` 1 / 3 * 100 ` ) . group ( 1 ) )
+sorted ( mylist , * * operator . itemgetter ( ` title ` ) )
+sorted ( l , key = operator . itemgetter ( ` title ` ) )
+sorted ( list , zip ( [ ` title ` , ` bar ` , ` id ` ] , [ ] ) )
+max ( l1 ) - sum ( len ( x ) for x in l2 )
+soup . find_all ( ` span ` , * * re . match ( ` star Gry B sp ` ) )
+df . objects . write ( ` test ` )
+print ( re . findall ( ` \ \ d + ` , s ) )
+[ x for x in L if x ! = 1 ]
+with open ( file ) as r : file = f . readlines ( )
+testlist [ i : i + 1 ]
+testlist [ i : i + 1 ]
+testlist [ i : i + 1 ]
+testlist [ i : i + 1 ]
+testlist [ i : i + 1 ]
+list ( set ( testlist ) ) = = list ( range ( element ) )
+list ( set ( testlist ) ) = = list ( range ( element ) )
+
+
+itertools . sample ( [ 0 , 1 , 3 , 6 ] )
+L = [ x [ i : i + 2 ] for i in range ( 0 , len ( L ) , 2 ) ]
+b . objects . 0000000 ( * * ` 0000000 ` )
+sorted ( list ( list5 . items ( ) ) , key = lambda x : len ( x ) )
+
+[ ord ( i ) for i in range ( 10 ) ]
+oldlist = list ( len ( x ) for oldlist in oldlist )
+f = open ( ` yourfile . txt ` , ` r ` )
+getattr ( obj , ` attr ` )
+map ( tuple , zip ( * [ ( 1 , 2 ) , ( 2 , 4 ) , ( 5 , 6 ) ] ) )
+[ ( x , y ) for a , b in zip ( ( ( ` aa ` , ) , ( ` bb ` , ) , ( ` cc ` , ) ) , ( ( ` aa ` , ) , ( ` bb ` , ) , ( ` cc ` , ) ) [ 1 : ] ) ]
+df . replace ( ` d ` , df . groupby ( ` replace ` ) [ : : - 1 ] . replace ( ` * ` , ` ` ) )
+print ( [ ` [ ( ` a ` , 1 ) , ( ` b ` , 2 ) , ( ` c ` , 3 ) , ( ` d ` , 4 ) ] ` , ` a ` ] )
+print ( [ ` [ ( ` a ` , 1 ) , ( ` b ` , 2 ) , ( ` c ` , 3 ) , ( ` d ` , 4 ) ] ` , ` a ` ] )
+original = [ i [ i : i + original ] for i in range ( 0 , len ( original ) , original ) ]
+list ( map ( original , original ) )
+print ( [ ` [ ( ` a ` , 1 ) , ( ` b ` , 2 ) , ( ` c ` , 3 ) , ( ` d ` , 4 ) , ( ` e ` , ) ] ` , ` [ ( ` a ` , 1 ) , ( ` b ` , 2 ) , ( ` c ` , 3 ) , ( ` d ` , 4 ) , ( ` e ` , ) ] ` ] )
+results = list ( x . loc . write ( ` [ ( ` a ` , 1 ) , ( ` b ` , 2 ) , ( ` c ` , 3 ) , ( ` d ` , 4 ) , ( ` e ` , ) ] ` ) )
+json . load ( ` Decimal ( ` 3 . 9 ` ) ` )
+list ( list ( d . items ( ) ) )
+list ( list ( data . items ( ) ) , key = int )
+list ( list ( data . items ( ) ) , key = int )
+list ( list ( data . items ( ) ) , key = int )
+print ( max ( matrix ) , key = lambda x : abs ( x . endswith ( ` matrix ` ) - 1 ) )
+round ( 2 , 2 )
+` ` ` ` ` ` . join ( text . split ( text = ` True ` ) )
+df . values [ ( ) ]
+line = open ( ` myfile ` , ` w ` ) . issubset ( line ) f . write ( line )
+print ( open ( filename . txt ) , key = lambda x : x . lst )
+plt = plt + mappable + ` r ` + ` plt `
+df . replace ( ` text ` ) . count ( )
+` ` ` ` ` ` . join ( os . split ( ` string ` , 1 ) )
+` ` ` ` ` ` . join ( range ( 0 , 2 ) for i in range ( 100 ) )
+datetime . datetime . now ( ) . strftime ( ` ? ` ) [ : - 1 ]
+[ [ 0 , y ] for item in list1 ]
+[ [ ] for _ in range ( list ( list1 . items ( ) ) for list1 in list1 ) ]
+json . path . json ( json . dumps ( data ) , * * ` data ` )
+[ int ( int ( re . findall ( ` \ \ d + ` , example_str ) ) ) for s in example_str . rstrip ( ) ]
+re . findall ( ` example_str ` , example_str )
+print ( [ ( zyx ) bc [ : 2 ] for i in range ( 0 , len ( char [ : : - 1 ] ) , 2 ) ] )
+re . findall ( ` \ \ ( ( . * ? ) \ \ ) | ( \ \ w ) ` , ` ( zyx ) bc ` )
+re . findall ( ` | ` , ` ( zyx ) bc ` , ( zyx ) bc )
+print ( ` ` . join ( map ( str , elements ) ) )
+process = os . path . urlretrieve ( ` background - process ` , ` arguments ` )
+[ k for k , v in enumerate ( mydict ) if value = = ` mykeys ` ]
+dict ( ( k , int ( v ) ) for k , v in { [ ( ` Name ` , ` Joe ` ) , ( ` Age ` , 22 ) ] } . items ( ) )
+list ( itertools . product ( [ data ] , 3 ) )
+re . sub ( ` s ` , ` s ` , s , re . UNICODE )
+list ( ` ` . join ( ` ` . join ( str ( s ) ) for sublist in string ) )
+df . to_csv ( ` barplots ` )
+list ( my Dictionary . values ( ) )
+[ max ( [ how ] ) for var_2 in [ my List ] ]
+len ( obj )
+len ( o )
+len ( o )
+len ( o )
+len ( str ( obj_to_test ) )
+list2 [ : ] = list2 [ i : i + list2 ]
+list1 [ : ] = list1 [ i : i + list1 ]
+c [ : ] = c [ i : i + c ]
+list1 = list ( itertools . product ( mylog ) )
+b = [ ( i + b ) for i , b in zip ( a , b ) ]
+config . SECRET_KEY . initialize ( * * [ ` Your_secret_string ` , ` Your_secret_string ` ] )
+df . sort_values ( ` out - 1 ` , index = ` False ` )
+print ( max ( stocks_list , key = lambda x : x . startswith ( ` MSFT ` ) ) )
+ax . get ( ax , ax , axis = 0 )
+s = ` ` . join ( s . split ( ) )
+os . path . dirname ( os . path . abspath ( __file__ ) )
+re . findall ( ` str ` , ` str ` )
+re . split ( ` [ ] ( ? = [ A - Z ] + \ \ b ) ` , input )
+` ` ` ` ` ` . join ( reversed ( [ input [ i : i + 2 ] for i in range ( 0 , len ( input ) , 1 ) ] ) )
+data = files . url ( ` url ` )
+filename . write ( open ( ` 3 ` , ` rb ` ) . read ( ) )
+lst = [ dct . items ( ) for k in list ( list ( list ( list ( list ( range ( 1 ) ) ) ) ) ) ]
+x . groupby ( ` name ` ) . reset_index ( )
+print ( ` 3 ` . format ( 3 ) )
+sorted ( li , key = operator . itemgetter ( 1 ) )
+ax . find_element_by_css_selector ( ` ax ` ) . agg ( lambda x : x . replace ( ` 135 ` ) )
+print ( os . path . getctime ( my_path ) )
+sum ( len ( x ) for x in list ( yourdict . values ( ) ) )
+sum ( len ( x ) for x in list ( yourdictfile . values ( ) ) )
+pd . Data Frame ( df . values [ : : - 1 ] , 2 )
+df . columns . split ( ) . split ( ` h ` )
+Value Error ( ` src = ` js / ( [ ^ ` ] * \ \ bjquery \ \ b [ ^ ` ] * ) ` ` + data )
+list ( map ( sum , sum ( sum ( x ) ) ) )
+subprocess . execute ( ` c : \ \ Program Files \ \ VMware \ \ VMware Server \ \ vmware - cmd . bat ` , c : \ Program Files \ VMware \ VMware Server \ vmware - cmd . bat )
+plt . priority ( * * [ 0 , 1 , 1 , 2 ] )
+
+re . findall ( ` ( [ a - f A - F \ \ d ] { 32 } ) ` , data )
+len ( my_list )
+itertools . randint ( l )
+itertools . randint ( s )
+random . randint ( 0 , my_tuple )
+random . randint ( 0 , my_string )
+` ` ` ` ` ` . join ( c for c in \ a if c . isdigit ( ) )
+re . sub ( ` a ` , ` a ` , ` a ` )
+os . listdir ( ` / folder_name ` )
+
+sorted ( list ( x . items ( ) ) , * * 1 )
+sorted ( list ( x . items ( ) ) , * * 1 )
+
+b = np . concatenate ( a , b )
+b = np . concatenate ( a , b )
+b = np . concatenate ( a , b )
+b = np . concatenate ( a , b )
+plt . savefig ( ` google . com ` , * * [ ` google . com ` , ` google . com ` ] )
+df . set_index ( [ ` sat ` , ` sat ` ] )
+
+os . system ( ` wherever ` )
+set ( [ ` * ` , ` * ` ] ) . issubset ( map ( lambda x : x . replace ( ` into ` ) , sqlalchemy [ : : - 1 ] ) )
+sorted ( c2 , * * operator . itemgetter ( 1 ) )
+sorted ( python , * * [ 1 , 1 ] )
+sorted ( python , * * [ 1 , 1 ] )
+print ( set ( [ Arial , str ( 1 ) ] , axis = 1 ) . font ( ) , axis = 1 )
+df . ordinal . write ( ` date ` , * * ` True ` )
+driver . find_element_by_css_selector ( ` element ` ) . source ( )
+
+f = subprocess . open ( ` gnome ` , os . path . join ( gnome ) )
+print ( ` third_key ` * my_dict )
+numpy . array ( [ [ 1 , 2 , 3 ] , [ 5 , 4 ] ] )
+my_list . insert ( 1 )
+[ ( x + wuggah ) for a , c in zip ( my List , my List ) ]
+locale . exit ( s = 0 )
+df . drop ( ` True ` )
+
+print ( map ( int , map ( lambda x : x . startswith ( ` [ 1 , 2 , 3 ] ` ) ) ) )
+len ( i )
+print ( ` ` . join ( map ( v , v ) ) )
+print ( ` ` . join ( map ( v , v ) ) )
+print ( ` ` . join ( map ( v , v ) ) )
+print ( ` ` . join ( map ( v , v ) ) )
+len ( variable_name )
+sum ( x . split ( ` : ` ) for x in a )
+print ( ` word ` . format ( word ) )
+. pop ( ` ` )
+y = [ [ ] for k , v in list ( y . items ( ) ) ]
+data = [ data . rstrip ( ` C : / name / My Documents / numbers ` ) for C : / name / My Documents / numbers in open ( ` C : / name / My Documents / numbers ` ) ]
+re . sub ( ` i ` , ` it is icy ` , ` it is icy ` )
+[ t . strip ( ) for it is icy in re . findall ( ` a ` , ` it is icy ` ) ]
+re . sub ( ` ` , ` it is icy ` , ` it is icy ` )
+re . findall ( ` - c ` , ` l ` )
+
+my List = [ ( x . have ( ) , n ) for a , y in enumerate ( my List , n ) ]
+print ( map ( map , map , list , zip ( * intstringlist ) ) )
+list ( map ( 1 , 2 ) )
+print ( ` . ` )
+` ` ` 2 . 52 * 100 ` ` ` . round ( off = ` True ` )
+os . listdir ( ` / mydir ` )
+os . listdir ( ` / mydir ` )
+os . listdir ( ` / mydir ` )
+df . plot ( * * ` legend ` )
+for name , c in open ( ` 192 . 168 . x . x ` ) : pass
+for name , c in open ( ` 192 . 168 . x . x ` ) : pass
+for name , c in open ( ` 192 . 168 . x . x ` ) : pass
+sum ( x * y for x , y in zip ( a , x ) )
+target = target . write ( target . replace ( ` line1 ` , ` ` ) )
+[ ` ` . join ( t ) for l in data ]
+` ` ` foo bar ` ` ` . encode ( ` \ n ` )
+s = s . replace ( , )
+x ( x ) . mean ( )
+print ( max ( x , key = lambda x : ( i < - 1 , y ) ) )
+arr = np . array ( list ( open ( ` new . txt ` ) ) , ` new . txt ` )
+sorted ( l , * * itemgetter ( ` time ` ) )
+l . sort ( * * operator . itemgetter ( ` time ` ) )
+df = df . groupby ( ` ( Hel | Just ) ` )
+importlib . import_module ( ` [ ` ) . start ( )
+datetime . datetime . strptime ( ` yyyymmdd ` , ` \ n ` ) . list ( )
+len ( ` The big brown fox is brown ` . replace ( lambda x : int ( int ( x ) ) ) )
+print ( urllib . parse . unquote ( request . body ) . decode ( ` request . body ` ) )
+r = os . path . join ( os . path . join ( url ) , ` file_name ` )
+print ( ` ` . join ( text . split ( ) ) )
+print ( text . split ( ` , ` ) )
+[ int ( x ) for a in line . split ( ) ]
+` ` ` ` ` ` . join ( x . split ( ) for x in s )
+list_of_strings . sort ( * * operator . itemgetter ( ` index ` ) )
+ast . strptime ( ` | ` , ` | ` , ` | ` )
+[ x for x in lst if x is not ` None ` ]
+[ x for x in lst if x not in ` None ` ]
+sorted ( list_to_be_sorted , * * itemgetter ( ` name ` ) )
+l . sort ( * * operator . itemgetter ( ` name ` , ` name ` ) )
+itertools . sort ( * * operator . itemgetter ( 1 ) )
+itertools . sort ( * * operator . itemgetter ( 1 ) )
+df . sort ( key = lambda x : name_num . reset_index ( ) . reset_index ( ) , reverse = ` True ` )
+[ d . get ( ` category ` ) for d in trans ]
+` ` ` ` ` ` . join ( [ ` A ` , ` B ` , ` C ` , ` D ` ] )
+json . json . loads ( url ) . json
+sents = [ [ x . strip ( ` # ` ) for sublist in sublist ] for sublist in sents ]
+df = np . filter ( [ ] , axis = 1 )
+list . sort ( key = itemgetter ( ` points ` ) )
+datetime . datetime . strptime ( ` ( 1970 , 1 , 1 ) ` )
+os . path . all ( suff + _suff + ` _a ` + suff )
+module [ : : - 1 ]
+int ( int ( number ) )
+numlist = [ x [ i : i + float ] for i in range ( 0 , len ( numlist ) , numlist ) ]
+df . groupby ( df . index . map ( lambda x : t . index ) , axis = 1 )
+json . load ( unescaped , unescaped )
+print ( set ( containing ) )
+{ k : s for a , s in list ( new File Bytes . items ( ) ) if ` new File ` in d }
+urllib . request . urlretrieve ( ` capital ` , ` ` ) . close ( )
+dict . last
+f . savefig ( ` hi there ` )
+myfile . savefig ( ` hi there ` )
+urllib . parse . urlretrieve ( ` somefile . txt ` , ` Hello ` )
+int ( int ( s ) )
+Authorized Email . objects . extra ( ` added ` , * * ` added ` )
+print ( re . findall ( ` \ \ d + ` , text ) )
+print ( re . findall ( ` \ \ d + ` , os . path . join ( ` text ` ) ) )
+subprocess . call ( ` script . ps1 ` , shell = ` True ` )
+sorted ( b , * * operator . itemgetter ( 1 ) )
+print ( [ cf ] )
+today = datetime . datetime . now ( ) . date ( )
+print ( max ( lst ) , * * operator . itemgetter ( 1 ) )
+abs ( 1 for i , v in enumerate ( a ) if i > a )
+os . system ( ` C : \ \ ` )
+numpy . all ( x ) . highest ( )
+s [ : : - 1 ]
+re . match ( ` t ` , document ) . close ( )
+mystring . split ( ` ` )
+shutil . open ( ` path ` , path , path )
+[ ( x + x ) for x , y in sum ( zip ( sum , data ) ) ]
+a [ : , - 1 : ]
